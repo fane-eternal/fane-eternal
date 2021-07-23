@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Suan Tkhan Nam Mai 
+- 👋 Hi, I’m Nam 
 - 👀 I’m interested in Business Analytics 
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on Business and IT projects  
